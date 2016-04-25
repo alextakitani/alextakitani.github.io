@@ -1,0 +1,162 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+metas	/home/alex/Dropbox/curriculo/alextakitani.github.io/javascripts/scale.fix.js	/^var metas = document.getElementsByTagName('meta');$/;"	variable	line:1
+i	/home/alex/Dropbox/curriculo/alextakitani.github.io/javascripts/scale.fix.js	/^var i;$/;"	variable	line:2
+gestureStart	/home/alex/Dropbox/curriculo/alextakitani.github.io/javascripts/scale.fix.js	/^function gestureStart() {$/;"	function	line:11
+gestureStart	/home/alex/Dropbox/curriculo/alextakitani.github.io/javascripts/scale.fix.js	/^function gestureStart() {$/;"	function	line:11
+html	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<html>$/;"	function	line:2
+head	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^  <head>$/;"	function	line:3
+meta	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+meta	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^    <meta http-equiv="X-UA-Compatible" content="chrome=1">$/;"	function	line:5
+title	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^    <title>Alex Takitani by alextakitani<\/title>$/;"	function	line:6
+link	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^    <link rel="stylesheet" href="stylesheets\/styles.css">$/;"	function	line:8
+link	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^    <link rel="stylesheet" href="stylesheets\/github-light.css">$/;"	function	line:9
+meta	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^    <meta name="viewport" content="width=device-width">$/;"	function	line:10
+script	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^    <script src="\/\/html5shiv.googlecode.com\/svn\/trunk\/html5.js"><\/script>$/;"	function	line:12
+body	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^  <body>$/;"	function	line:15
+div	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^    <div class="wrapper">$/;"	function	line:16
+header	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^      <header>$/;"	function	line:17
+h	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^        <h1>Alex Takitani<\/h1>$/;"	function	line:18
+h	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^        <h4>04\/12\/1978<\/h4>$/;"	function	line:19
+h	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^        <h4>São Paulo - Brazil<\/h4>$/;"	function	line:20
+h	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^        <h4>+5511983476798<\/h4>$/;"	function	line:21
+h	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^        <h4>aftakitani @ gmail<\/h4>$/;"	function	line:22
+p	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^        <p><\/p>$/;"	function	line:23
+p	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^        <p class="view"><a href="https:\/\/github.com\/alextakitani">GitHub Profile<\/a><\/p>$/;"	function	line:26
+p	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^        <p class="view"><a href="https:\/\/br.linkedin.com\/in\/alex-takitani-b0443412">Linkedin Profile<\/a><\/p>$/;"	function	line:27
+section	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^      <section>$/;"	function	line:30
+h	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^        <h3>$/;"	function	line:31
+a	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"><\/span><\/a>Welcome to GitHub Pages.<\/h3>$/;"	function	line:32
+p	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here <a href="https:\/\/guides.github.com\/features\/mastering-markdown\/">using GitHub Flavored Markdown<\/a>, select a template crafted by a designer, and publish. After your page is generated, you can check out the new <code>gh-pages<\/code> branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.<\/p>$/;"	function	line:34
+h	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<h3>$/;"	function	line:36
+a	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"><\/span><\/a>Designer Templates<\/h3>$/;"	function	line:37
+p	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<p>We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.<\/p>$/;"	function	line:39
+h	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<h3>$/;"	function	line:41
+a	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"><\/span><\/a>Creating pages manually<\/h3>$/;"	function	line:42
+p	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages<\/code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.<\/p>$/;"	function	line:44
+h	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<h3>$/;"	function	line:46
+a	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"><\/span><\/a>Authors and Contributors<\/h3>$/;"	function	line:47
+p	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<p>You can <a href="https:\/\/github.com\/blog\/821" class="user-mention">@mention<\/a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;<\/code> element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https:\/\/github.com\/defunkt" class="user-mention">@defunkt<\/a>), PJ Hyett (<a href="https:\/\/github.com\/pjhyett" class="user-mention">@pjhyett<\/a>), and Tom Preston-Werner (<a href="https:\/\/github.com\/mojombo" class="user-mention">@mojombo<\/a>) founded GitHub.<\/p>$/;"	function	line:49
+h	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<h3>$/;"	function	line:51
+a	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"><\/span><\/a>Support or Contact<\/h3>$/;"	function	line:52
+p	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^<p>Having trouble with Pages? Check out our <a href="https:\/\/help.github.com\/pages">documentation<\/a> or <a href="https:\/\/github.com\/contact">contact support<\/a> and we’ll help you sort it out.<\/p>$/;"	function	line:54
+footer	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^      <footer>$/;"	function	line:56
+p	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https:\/\/github.com\/orderedlist">orderedlist<\/a><\/small><\/p>$/;"	function	line:57
+script	/home/alex/Dropbox/curriculo/alextakitani.github.io/index.html	/^    <script src="javascripts\/scale.fix.js"><\/script>$/;"	function	line:60
+@font-face	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^@font-face {$/;"	function	line:1
+src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix') format('embedded-opentype')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  src: url('..\/fonts\/Noto-Sans-regular\/Noto-Sans-regular.eot?#iefix') format('embedded-opentype'),$/;"	function	line:6
+local('Noto Sans')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       local('Noto Sans'),$/;"	function	line:7
+local('Noto-Sans-regular')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       local('Noto-Sans-regular'),$/;"	function	line:8
+url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff2') format('woff2')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-regular\/Noto-Sans-regular.woff2') format('woff2'),$/;"	function	line:9
+url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff') format('woff')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-regular\/Noto-Sans-regular.woff') format('woff'),$/;"	function	line:10
+url('../fonts/Noto-Sans-regular/Noto-Sans-regular.ttf') format('truetype')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-regular\/Noto-Sans-regular.ttf') format('truetype'),$/;"	function	line:11
+@font-face	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^@font-face {$/;"	function	line:15
+src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix') format('embedded-opentype')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  src: url('..\/fonts\/Noto-Sans-700\/Noto-Sans-700.eot?#iefix') format('embedded-opentype'),$/;"	function	line:20
+local('Noto Sans Bold')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       local('Noto Sans Bold'),$/;"	function	line:21
+local('Noto-Sans-700')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       local('Noto-Sans-700'),$/;"	function	line:22
+url('../fonts/Noto-Sans-700/Noto-Sans-700.woff2') format('woff2')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-700\/Noto-Sans-700.woff2') format('woff2'),$/;"	function	line:23
+url('../fonts/Noto-Sans-700/Noto-Sans-700.woff') format('woff')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-700\/Noto-Sans-700.woff') format('woff'),$/;"	function	line:24
+url('../fonts/Noto-Sans-700/Noto-Sans-700.ttf') format('truetype')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-700\/Noto-Sans-700.ttf') format('truetype'),$/;"	function	line:25
+@font-face	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^@font-face {$/;"	function	line:29
+src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.eot?#iefix') format('embedded-opentype')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  src: url('..\/fonts\/Noto-Sans-italic\/Noto-Sans-italic.eot?#iefix') format('embedded-opentype'),$/;"	function	line:34
+local('Noto Sans Italic')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       local('Noto Sans Italic'),$/;"	function	line:35
+local('Noto-Sans-italic')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       local('Noto-Sans-italic'),$/;"	function	line:36
+url('../fonts/Noto-Sans-italic/Noto-Sans-italic.woff2') format('woff2')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-italic\/Noto-Sans-italic.woff2') format('woff2'),$/;"	function	line:37
+url('../fonts/Noto-Sans-italic/Noto-Sans-italic.woff') format('woff')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-italic\/Noto-Sans-italic.woff') format('woff'),$/;"	function	line:38
+url('../fonts/Noto-Sans-italic/Noto-Sans-italic.ttf') format('truetype')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-italic\/Noto-Sans-italic.ttf') format('truetype'),$/;"	function	line:39
+@font-face	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^@font-face {$/;"	function	line:43
+src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?#iefix') format('embedded-opentype')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  src: url('..\/fonts\/Noto-Sans-700italic\/Noto-Sans-700italic.eot?#iefix') format('embedded-opentype'),$/;"	function	line:48
+local('Noto Sans Bold Italic')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       local('Noto Sans Bold Italic'),$/;"	function	line:49
+local('Noto-Sans-700italic')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       local('Noto-Sans-700italic'),$/;"	function	line:50
+url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2') format('woff2')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-700italic\/Noto-Sans-700italic.woff2') format('woff2'),$/;"	function	line:51
+url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff') format('woff')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-700italic\/Noto-Sans-700italic.woff') format('woff'),$/;"	function	line:52
+url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype')	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^       url('..\/fonts\/Noto-Sans-700italic\/Noto-Sans-700italic.ttf') format('truetype'),$/;"	function	line:53
+body	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^body {$/;"	function	line:57
+h1, h2, h3, h4, h5, h6	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^h1, h2, h3, h4, h5, h6 {$/;"	function	line:65
+p, ul, ol, table, pre, dl	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^p, ul, ol, table, pre, dl {$/;"	function	line:70
+h1, h2, h3	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^h1, h2, h3 {$/;"	function	line:74
+h1	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^h1 {$/;"	function	line:78
+h2	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^h2 {$/;"	function	line:82
+h3, h4, h5, h6	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^h3, h4, h5, h6 {$/;"	function	line:86
+a	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^a {$/;"	function	line:90
+a:hover	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^a:hover {$/;"	function	line:95
+a small	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^a small {$/;"	function	line:99
+a:hover small	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^a:hover small {$/;"	function	line:106
+.wrapper	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^.wrapper {$/;"	function	line:110
+blockquote	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^blockquote {$/;"	function	line:115
+code, pre	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^code, pre {$/;"	function	line:122
+pre	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^pre {$/;"	function	line:128
+table	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^table {$/;"	function	line:136
+th, td	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^th, td {$/;"	function	line:141
+dt	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^dt {$/;"	function	line:147
+th	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^th {$/;"	function	line:152
+img	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^img {$/;"	function	line:156
+header	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^header {$/;"	function	line:160
+header ul	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^header ul {$/;"	function	line:167
+header li	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^header li {$/;"	function	line:177
+header li:first-child a	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^header li:first-child a {$/;"	function	line:184
+header li:last-child a	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^header li:last-child a {$/;"	function	line:188
+header ul a	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^header ul a {$/;"	function	line:192
+header ul a:hover	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^header ul a:hover {$/;"	function	line:202
+header ul a:active	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^header ul a:active {$/;"	function	line:206
+strong	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^strong {$/;"	function	line:210
+header ul li + li + li	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^header ul li + li + li {$/;"	function	line:215
+header ul a strong	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^header ul a strong {$/;"	function	line:220
+section	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^section {$/;"	function	line:226
+small	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^small {$/;"	function	line:232
+hr	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^hr {$/;"	function	line:236
+footer	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^footer {$/;"	function	line:243
+@media print, screen and (max-width: 960px)	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^@media print, screen and (max-width: 960px) {$/;"	function	line:251
+div.wrapper	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  div.wrapper {$/;"	function	line:253
+header, section, footer	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  header, section, footer {$/;"	function	line:258
+header	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  header {$/;"	function	line:264
+section	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  section {$/;"	function	line:268
+header a small	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  header a small {$/;"	function	line:275
+header ul	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  header ul {$/;"	function	line:279
+@media print, screen and (max-width: 720px)	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^@media print, screen and (max-width: 720px) {$/;"	function	line:286
+body	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  body {$/;"	function	line:287
+header	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  header {$/;"	function	line:291
+header ul, header p.view	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  header ul, header p.view {$/;"	function	line:295
+pre, code	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  pre, code {$/;"	function	line:299
+@media print, screen and (max-width: 480px)	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^@media print, screen and (max-width: 480px) {$/;"	function	line:304
+body	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  body {$/;"	function	line:305
+header ul	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  header ul {$/;"	function	line:309
+header li, header ul li + li + li	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  header li, header ul li + li + li {$/;"	function	line:313
+@media print	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^@media print {$/;"	function	line:318
+body	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/styles.css	/^  body {$/;"	function	line:319
+distributed under the License is distributed on an "AS IS" BASIS	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^   distributed under the License is distributed on an "AS IS" BASIS,$/;"	function	line:11
+.pl-c /* comment */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-c \/* comment *\/ {$/;"	function	line:18
+.pl-c1      /* constant, markup.raw, meta.diff.header, meta.module-reference, meta.property-name, support, support.constant, support.variable, variable.other.constant */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-c1      \/* constant, markup.raw, meta.diff.header, meta.module-reference, meta.property-name, support, support.constant, support.variable, variable.other.constant *\/,$/;"	function	line:22
+.pl-s .pl-v /* string variable */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-s .pl-v \/* string variable *\/ {$/;"	function	line:23
+.pl-e  /* entity */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-e  \/* entity *\/,$/;"	function	line:27
+.pl-en /* entity.name */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-en \/* entity.name *\/ {$/;"	function	line:28
+.pl-s .pl-s1 /* string source */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-s .pl-s1 \/* string source *\/,$/;"	function	line:32
+.pl-smi      /* storage.modifier.import, storage.modifier.package, storage.type.java, variable.other, variable.parameter.function */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-smi      \/* storage.modifier.import, storage.modifier.package, storage.type.java, variable.other, variable.parameter.function *\/ {$/;"	function	line:33
+.pl-ent /* entity.name.tag */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-ent \/* entity.name.tag *\/ {$/;"	function	line:37
+.pl-k /* keyword, storage, storage.type */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-k \/* keyword, storage, storage.type *\/ {$/;"	function	line:41
+.pl-pds              /* punctuation.definition.string, string.regexp.character-class */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-pds              \/* punctuation.definition.string, string.regexp.character-class *\/,$/;"	function	line:45
+.pl-s                /* string */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-s                \/* string *\/,$/;"	function	line:46
+.pl-s .pl-pse .pl-s1 /* string punctuation.section.embedded source */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-s .pl-pse .pl-s1 \/* string punctuation.section.embedded source *\/,$/;"	function	line:47
+.pl-sr               /* string.regexp */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-sr               \/* string.regexp *\/,$/;"	function	line:48
+.pl-sr .pl-cce       /* string.regexp constant.character.escape */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-sr .pl-cce       \/* string.regexp constant.character.escape *\/,$/;"	function	line:49
+.pl-sr .pl-sra       /* string.regexp string.regexp.arbitrary-repitition */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-sr .pl-sra       \/* string.regexp string.regexp.arbitrary-repitition *\/,$/;"	function	line:50
+.pl-sr .pl-sre       /* string.regexp source.ruby.embedded */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-sr .pl-sre       \/* string.regexp source.ruby.embedded *\/ {$/;"	function	line:51
+.pl-v /* variable */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-v \/* variable *\/ {$/;"	function	line:55
+.pl-id /* invalid.deprecated */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-id \/* invalid.deprecated *\/ {$/;"	function	line:59
+.pl-ii /* invalid.illegal */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-ii \/* invalid.illegal *\/ {$/;"	function	line:63
+.pl-sr .pl-cce /* string.regexp constant.character.escape */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-sr .pl-cce \/* string.regexp constant.character.escape *\/ {$/;"	function	line:68
+.pl-ml /* markup.list */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-ml \/* markup.list *\/ {$/;"	function	line:73
+.pl-mh        /* markup.heading */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-mh        \/* markup.heading *\/,$/;"	function	line:77
+.pl-mh .pl-en /* markup.heading entity.name */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-mh .pl-en \/* markup.heading entity.name *\/,$/;"	function	line:78
+.pl-ms        /* meta.separator */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-ms        \/* meta.separator *\/ {$/;"	function	line:79
+.pl-mq /* markup.quote */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-mq \/* markup.quote *\/ {$/;"	function	line:84
+.pl-mi /* markup.italic */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-mi \/* markup.italic *\/ {$/;"	function	line:88
+.pl-mb /* markup.bold */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-mb \/* markup.bold *\/ {$/;"	function	line:93
+.pl-md /* markup.deleted, meta.diff.header.from-file */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-md \/* markup.deleted, meta.diff.header.from-file *\/ {$/;"	function	line:98
+.pl-mi1 /* markup.inserted, meta.diff.header.to-file */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-mi1 \/* markup.inserted, meta.diff.header.to-file *\/ {$/;"	function	line:103
+.pl-mdr /* meta.diff.range */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-mdr \/* meta.diff.range *\/ {$/;"	function	line:108
+.pl-mo /* meta.output */	/home/alex/Dropbox/curriculo/alextakitani.github.io/stylesheets/github-light.css	/^.pl-mo \/* meta.output *\/ {$/;"	function	line:113
